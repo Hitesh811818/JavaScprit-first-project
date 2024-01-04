@@ -1,0 +1,17 @@
+ul{
+    border: 1px black solid;
+    background-color: aqua;
+    width: 210px;
+    height: auto;
+}
+
+li{
+    width: 150px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 0 15px 0 15px;
+    border-radius: 15px;
+}
+
